@@ -1,1 +1,1 @@
-var twox = (x) => x * 2;
+var threex = (x) => x * 3;

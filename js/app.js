@@ -1,5 +1,5 @@
 "use strict";
 
-var twox = function twox(x) {
-  return x * 2;
+var threex = function threex(x) {
+  return x * 3;
 };
